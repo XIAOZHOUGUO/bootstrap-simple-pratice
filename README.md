@@ -1,2 +1,2 @@
 # bootstrap-simple-pratice
-it`s just a simple pratice blog project used by bootstrape 
+![bootstrap](https://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png)
